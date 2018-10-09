@@ -36,7 +36,7 @@ return [
     'bestGames' => 'プレイヤー重複あり',
     'bestSubs' => '〜秒以下のみ',
     'latestGames' => '新着リプレイ',
-    'leastBlocks' => '設置ミノ数順',
+    'leastBlocks' => '設置ブロック数順',
     'myTimes' => '自分の記録のみ',
     'perfectFinesse' => '最適化ミス0',
     
@@ -89,7 +89,7 @@ return [
     'totalTime' => 'プレイ時間',
     'linesSent' => '送ったライン合計',
     'linesRec' => '受けたライン合計',
-    'placedBlocks' => '置いたミノ合計',
+    'placedBlocks' => '置いたブロック合計',
     'maxAPM' => '最大APM',
     'maxREN' => '最大REN数',
     'longestGame' => '最も長かったゲーム',
@@ -109,7 +109,7 @@ return [
     'dispAll' => 'ベストでないゲームも全て表示',
     
     /* About */
-    'aboutInfo' => 'JstrisはJavascriptとHTML5とPython(サーバーのみ)で作られたシンプルなオンライン対戦パズルゲームです。',
+    'aboutInfo' => 'JstrisはJavascriptとHTML5とPython(サーバー)で作られたシンプルなオンライン対戦パズルゲームです。',
     'version' => 'バージョン',
     'changelog' => 'チェンジログ',
     'discussion' => 'ディスカッション',

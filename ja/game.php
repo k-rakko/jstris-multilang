@@ -36,7 +36,7 @@ return [
     'enabled' => 'ON',
     'disabled' => 'OFF',
     'appearSound' => 'デコレーションとサウンド',
-    'blockStyle' => 'ミノ',
+    'blockStyle' => 'ブロック',
     'solidBlocks' => '無地',
     'invisibleBlocks' => '透明',
     'enableSE' => 'SEを鳴らす',

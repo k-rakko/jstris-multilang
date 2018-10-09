@@ -64,7 +64,7 @@ return [
     'time' => 'タイム', //as game duration
     'received' => '受けたライン',
     'sent' => '攻撃',
-    'blocks' => 'ミノ数', //as number of blocks placed
+    'blocks' => 'ブロック数', //as number of blocks placed
     'ren' => 'REN',
 
     //Practice mode result
